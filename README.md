@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
