@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
