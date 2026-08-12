@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
