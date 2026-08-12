@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
