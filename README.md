@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
