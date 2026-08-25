@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
