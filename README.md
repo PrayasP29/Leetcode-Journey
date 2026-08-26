@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
