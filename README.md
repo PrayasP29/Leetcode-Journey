@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0412-fizz-buzz) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
