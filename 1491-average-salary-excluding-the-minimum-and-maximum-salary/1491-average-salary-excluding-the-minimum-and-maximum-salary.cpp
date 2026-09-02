@@ -7,9 +7,7 @@ public:
         double avg;
         for(int i=1;i<salary.size()-1;i++){
             total+=salary[i];
-            count++;
-            avg=(double)total/count;
         }
-        return avg;
+        return (double)total/(salary.size()-2);
     }
 };
