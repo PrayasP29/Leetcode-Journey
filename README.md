@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
