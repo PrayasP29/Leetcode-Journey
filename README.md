@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2235-add-two-integers) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -389,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
