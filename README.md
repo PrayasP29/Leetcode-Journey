@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0645-set-mismatch) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
