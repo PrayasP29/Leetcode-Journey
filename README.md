@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1550-three-consecutive-odds) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
