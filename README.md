@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -431,4 +433,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1122-relative-sort-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
