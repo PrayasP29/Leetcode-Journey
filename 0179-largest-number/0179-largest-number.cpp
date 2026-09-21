@@ -6,13 +6,13 @@ public:
             string B=to_string(b);
             return A+B>B+A;
         });
+        if(nums[0]==0){
+                return "0";
+            }
+            
         string ans="";
         for(int i=0;i<nums.size();i++){
             ans+=to_string(nums[i]);
-
-            if(nums[0]==0){
-                return "0";
-            }
         }
         return ans;
     }
