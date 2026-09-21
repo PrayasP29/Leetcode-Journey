@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
