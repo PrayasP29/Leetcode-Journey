@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0970-powerful-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0970-powerful-integers) |
 | [1122-relative-sort-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0728-self-dividing-numbers) |
 | [0869-reordered-power-of-2](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
+| [0970-powerful-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0970-powerful-integers) |
 | [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1363-largest-multiple-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1363-largest-multiple-of-three) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0869-reordered-power-of-2) |
+| [0970-powerful-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0970-powerful-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
