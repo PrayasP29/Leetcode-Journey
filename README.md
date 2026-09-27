@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
