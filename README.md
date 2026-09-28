@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2553-separate-the-digits-in-an-array) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2032-two-out-of-three) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sorting
 |  |
