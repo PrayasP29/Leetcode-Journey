@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -474,12 +475,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 ## Brainteaser
 |  |
 | ------- |
