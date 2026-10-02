@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0344-reverse-string) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
