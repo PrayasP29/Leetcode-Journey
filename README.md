@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
