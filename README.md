@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Greedy
 |  |
