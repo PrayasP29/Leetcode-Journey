@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0970-powerful-integers) |
 | [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1363-largest-multiple-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1363-largest-multiple-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
