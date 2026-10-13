@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2418-sort-the-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1363-largest-multiple-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
