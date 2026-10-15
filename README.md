@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1122-relative-sort-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0970-powerful-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0970-powerful-integers) |
 | [1122-relative-sort-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -570,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0493-reverse-pairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
