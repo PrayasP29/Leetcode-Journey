@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2032-two-out-of-three) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0645-set-mismatch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2032-two-out-of-three) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
