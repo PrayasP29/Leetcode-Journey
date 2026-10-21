@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0204-count-primes) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0231-power-of-two) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0242-valid-anagram) |
