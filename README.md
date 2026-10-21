@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2057-smallest-index-with-equal-value) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2418-sort-the-people) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0179-largest-number) |
 | [1363-largest-multiple-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1363-largest-multiple-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
