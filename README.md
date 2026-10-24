@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -613,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
