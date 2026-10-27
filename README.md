@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
