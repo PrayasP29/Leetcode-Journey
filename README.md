@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -332,12 +335,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -585,12 +591,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
