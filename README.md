@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2057-smallest-index-with-equal-value) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2540-minimum-common-value) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
 |  |
 | ------- |
