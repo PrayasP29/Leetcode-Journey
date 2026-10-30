@@ -1,10 +1,9 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int n=nums.size();
         int currentsum=nums[0];
         int maxsum=nums[0];
-        for(int i=1;i<n;i++){
+        for(int i=1;i<nums.size();i++){
             currentsum=max(nums[i],nums[i]+currentsum);
             maxsum=max(maxsum,currentsum);
         }
