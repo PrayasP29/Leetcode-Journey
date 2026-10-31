@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
