@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
