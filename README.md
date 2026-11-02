@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0817-linked-list-components](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0645-set-mismatch) |
+| [0817-linked-list-components](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-linked-list-components](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
