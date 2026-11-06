@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0404-sum-of-left-leaves) |
 ## Knapsack Problem
@@ -681,18 +682,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0404-sum-of-left-leaves) |
