@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -704,4 +706,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
