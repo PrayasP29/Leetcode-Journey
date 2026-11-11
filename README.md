@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
