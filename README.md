@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0970-powerful-integers) |
 | [1025-divisor-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1025-divisor-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1363-largest-multiple-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1363-largest-multiple-of-three) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0258-add-digits) |
+| [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Counting Sort
 |  |
@@ -721,4 +724,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
