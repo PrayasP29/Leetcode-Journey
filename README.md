@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
