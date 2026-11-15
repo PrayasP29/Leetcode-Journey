@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
