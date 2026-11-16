@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3701-compute-alternating-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3701-compute-alternating-sum](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
