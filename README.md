@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
