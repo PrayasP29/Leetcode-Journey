@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
