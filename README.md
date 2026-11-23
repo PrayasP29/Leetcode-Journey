@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2540-minimum-common-value) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
