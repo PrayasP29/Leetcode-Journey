@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
