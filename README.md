@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
