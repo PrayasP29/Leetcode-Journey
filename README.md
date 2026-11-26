@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrayasP29/Leetcode-Journey/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/PrayasP29/Leetcode-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [2413-smallest-even-multiple](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayasP29/Leetcode-Journey/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrayasP29/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
